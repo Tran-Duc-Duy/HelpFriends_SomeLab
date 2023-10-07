@@ -1,0 +1,28 @@
+.Timer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.input{
+  width:30%;
+}
+.btn{
+  width: 30%;
+}
+.start{
+  background-color: blue;
+  width: 50%;
+  color: white;
+}
+.reset{
+  background-color: red;
+  width: 50%;
+  color: white;
+}
+.finished{
+  background-color: green;
+  width: 10%;
+  color: white;
+}
